@@ -9,3 +9,5 @@ Besides, you can see information like:
 - By clicking on the Store's name, you go to the original google maps for more info about location and so forth.
 
 P.S. The number of stores is limited to the little DB the software has itself.
+
+# Check it put by clicking on the link: https://alecxq.github.io/Google-Maps-Project-Practise/
