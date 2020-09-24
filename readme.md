@@ -1,6 +1,6 @@
 # Google maps project practise
 
-In my last JS training with Qazi(Clever programmer) I learnt how to build this google maps app which search Stores by their Zip Code.
+In my last JS training with Qazi(Clever programmer) I learnt how to build this google maps app which searches Stores by their Zip Code.
 
 Besides, you can see information like:
 
