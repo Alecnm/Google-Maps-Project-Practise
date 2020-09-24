@@ -8,6 +8,7 @@ Besides, you can see information like:
 - Telephone number and adress.
 - By clicking on the Store's name, you go to the original google maps for more info about location and so forth.
 
-P.S. The number of stores is limited to the little DB the software has itself.
+P.S. The number of stores is limited to the little DB the software has itself. Also the Google maps' API is used only with development purposes.
 
-# Check it put by clicking on the link: https://alecxq.github.io/Google-Maps-Project-Practise/
+# Check it put by clicking on the link: 
+https://alecxq.github.io/Google-Maps-Project-Practise/
