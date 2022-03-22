@@ -1,4 +1,4 @@
-# Google maps project practise
+# Google maps project 
 
 In my last JS training with Qazi(Clever programmer) I learnt how to build this google maps app which searches Stores by their Zip Code.
 
