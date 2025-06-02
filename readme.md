@@ -11,4 +11,4 @@ Besides, you can see information like:
 P.S. The number of stores is limited to the little DB the software has itself. Also the Google maps' API is used only for development purposes.
 
 # Check it out by clicking on the link: 
-https://alecxq.github.io/Google-Maps-Project-Practise/
+https://alecnm.github.io/Google-Maps-Project-Practise/
